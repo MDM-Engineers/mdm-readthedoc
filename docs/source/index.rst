@@ -24,4 +24,6 @@ To get started with MDM-Guidelines, explore the following sections:
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   source/Intune/01_Windows_Autopilot_User_Driven_Mode/01_Windows_Autopilot_User_Driven_Mode
+   source/Intune/02_Windows_Autopilot_for_pre_provisioned_deployment
 
