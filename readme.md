@@ -4,8 +4,7 @@ Welcome to the MDM ReadTheDocs repository! This document provides guidelines for
 
 ### 1. Repository Structure
 - **`/docs`**: Contains all documentation files in Markdown format.
-- **`/config`**: Stores configuration files for MDM setups.
-- **`/scripts`**: Includes automation scripts for deployment and testing.
+- **`/source`**: 
 
 ### 2. Documentation Standards
 - Use clear and concise language.
