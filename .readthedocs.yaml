@@ -8,10 +8,10 @@ build:
     pre_build:
       - pip install -r requirements.txt
     build:
-      - sphinx-build -b html source/ $READTHEDOCS_OUTPUT/html
+      - sphinx-build -b html docs/ $READTHEDOCS_OUTPUT/html
 
 sphinx:
-  configuration: source/conf.py
+  configuration: docs/source/conf.py
 
 python:
   install:
