@@ -45,11 +45,11 @@ language = 'en'  # Default language
 
 # -- Customization for multiple languages
 
-html_context = {
-    'languages': [
-        ("English", "/%s/", 'en')
-    ],
-}
+# html_context = {
+#     'languages': [
+#         ("English", "/%s/", 'en')
+#     ],
+# }
 # Customizing the theme options
 # This is where you can set theme-specific options
 
@@ -61,7 +61,6 @@ html_theme_options = {
     "nav_links": [
         {
             "title": "Platforms",
-            "url": "writing",
             "children": [
                 {
                     "title": "Jamf MDM",
