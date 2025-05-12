@@ -1,29 +1,68 @@
-.. MDM-RTD documentation master file, created by
-   sphinx-quickstart on Mon May 12 08:09:21 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+:layout: landing
+:description: 
 
-MDM-Guidelines
-=====================
+MDM Engineering
+=======
 
-Welcome to the MDM-Guidelines documentation! This documentation provides an overview of the Master Data Management (MDM) system, its features, and how to use it effectively.
+.. rst-class:: lead
 
-**Key Features of 3Tshare-MDM:**
-- Centralized data management for consistent and accurate information.
-- Seamless integration with other systems.
-- Advanced data governance and compliance tools.
-- Scalable architecture for growing business needs.
+    Welcome to **MDM Engineering**, an open-source documentation hub dedicated to empowering the MDM Engineering community. Our mission is to provide real-world solutions, step-by-step guides, and actionable insights for IT professionals managing modern devices.
 
-**Getting Started:**
-To get started with MDM-Guidelines, explore the following sections:
-- **Introduction to MDM**: Learn the basics of Master Data Management.
-- **Setup and Configuration**: Step-by-step guide to setting up the system.
-- **Best Practices**: Tips for effective data management.
-- **Troubleshooting**: Common issues and their solutions.
+Whether you're configuring profiles for a small team or deploying policies at scale, this site is your go-to resource for mastering device management with confidence.
+
+.. container:: buttons
+
+    `Intune </intune/>`_
+    `Jamf </jamf/>`_
+    `GitHub <https://github.com/MDM-Engineers/mdm-readthedoc>`_
+
+.. grid:: 1 1 2 3
+    :gutter: 2
+    :padding: 0
+    :class-row: surface
+
+    .. grid-item-card:: :octicon:`star` Beautiful Design
+
+        A visually stunning and modern design that makes your documentation
+        look professional and appealing.
+
+    .. grid-item-card:: :octicon:`zap` Responsive Layout
+
+        Look great on all devices, from desktops to smartphones, without
+        compromising on readability or functionality.
+
+    .. grid-item-card:: :octicon:`moon` Light/Dark Mode
+
+        Users can switch between light and dark modes according to their
+        preference.
+
+    .. grid-item-card:: :octicon:`paintbrush` Customizable Colors
+        :link: /customisation/colors/
+
+        Customize the colors to match your brand or personal preferences
+        with radix colors.
+
+    .. grid-item-card:: :octicon:`beaker` Jupyter Integration
+        :link: /extensions/nbsphinx/
+
+        Great CSS/UI for lots of Jupyter related extensions, enhance your
+        AI documentation.
+
+    .. grid-item-card:: :octicon:`browser` Multiple Layouts
+        :link: /customisation/layouts/
+
+        Layouts of landing page, simple one page, and three-column
+        documentation page.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   source/Intune/01_Windows_Autopilot_User_Driven_Mode/01_Windows_Autopilot_User_Driven_Mode
-   source/Intune/02_Windows_Autopilot_for_pre_provisioned_deployment
+    :caption: Getting started
+    :hidden:
 
+    intune/index
+    jamf/index
+
+.. toctree::
+    :caption: Contributing
+    :hidden:
+
+    contributing/index
