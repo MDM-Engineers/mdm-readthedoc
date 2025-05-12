@@ -6,8 +6,7 @@ build:
   tools:
     python: "3.11"
   commands:
-    - python -m pip install sphinx_rtd_theme
-    - sphinx-build -b html docs/source $READTHEDOCS_OUTPUT/html
+    - requirements: docs/requirements.txt
 
 sphinx:
   configuration: docs/source/conf.py
