@@ -12,16 +12,16 @@ Whether you're configuring profiles for a small team or deploying policies at sc
 
 .. container:: buttons
 
-    `Intune </intune/index>`_
-    `Jamf </jamf/index>`_
+    `Intune </intune/>`_
+    `Jamf </jamf/>`_
     `GitHub <https://github.com/MDM-Engineers/mdm-readthedoc>`_
 
 .. toctree::
     :caption: Getting started
     :hidden:
 
-    intune/
-    jamf/
+    intune/index
+    jamf/index
 
 .. toctree::
     :caption: Contributing
