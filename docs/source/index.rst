@@ -20,8 +20,8 @@ Whether you're configuring profiles for a small team or deploying policies at sc
     :caption: Getting started
     :hidden:
 
-    intune/index
-    jamf/index
+    intune/
+    jamf/
 
 .. toctree::
     :caption: Contributing
