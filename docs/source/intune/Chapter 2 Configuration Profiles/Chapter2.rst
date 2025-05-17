@@ -1,4 +1,4 @@
-Pre-Provisioned Deployment
+Chapter 2: Configuration
 ===========================
 
 .. toctree::

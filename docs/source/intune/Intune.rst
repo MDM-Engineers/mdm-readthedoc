@@ -8,5 +8,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting-started
-   advanced-configuration
+   Chapter 1 Device enrollment/Chapter1
+
+   Chapter 2 Configuration Profiles/Chapter2

@@ -2,7 +2,7 @@
 :description: 
 
 MDM Engineering
-=======
+================
 
 .. rst-class:: lead
 
@@ -12,16 +12,18 @@ Whether you're configuring profiles for a small team or deploying policies at sc
 
 .. container:: buttons
 
-    `Intune </intune/>`_
-    `Jamf </jamf/>`_
+    `Intune <intune/Intune.html>`_
+    `Jamf <jamf/index.html>`_
     `GitHub <https://github.com/MDM-Engineers/mdm-readthedoc>`_
 
 .. toctree::
     :caption: Getting started
+    :maxdepth: 2
     :hidden:
 
-    intune/index
+    intune/Intune
     jamf/index
+
 
 .. toctree::
     :caption: Contributing
