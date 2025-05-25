@@ -8,5 +8,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting-started
-   advanced-configuration
+   #getting-started
+   #advanced-configuration

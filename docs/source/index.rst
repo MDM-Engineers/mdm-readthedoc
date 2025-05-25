@@ -24,9 +24,3 @@ Whether you're configuring profiles for a small team or deploying policies at sc
     intune/Intune
     jamf/index
 
-
-.. toctree::
-    :caption: Contributing
-    :hidden:
-
-    contributing/index
