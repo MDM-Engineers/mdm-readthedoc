@@ -74,5 +74,11 @@ html_theme_options = {
                 },
             ]
         },
+        {
+            "title": "About us",
+            "url": "about/index",
+            "summary": "Learn more about MDM Engineers",           
+        },
+        
     ]
 }
