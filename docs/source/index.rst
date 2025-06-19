@@ -13,7 +13,7 @@ Whether you're configuring profiles for a small team or deploying policies at sc
 .. container:: buttons
 
     `Intune <intune/Intune.html>`_
-    `Jamf <jamf/index.html>`_
+    `Jamf <jamf/Jamf.html>`_
     `GitHub <https://github.com/MDM-Engineers/mdm-readthedoc>`_
 
 .. toctree::
@@ -22,5 +22,4 @@ Whether you're configuring profiles for a small team or deploying policies at sc
     :hidden:
 
     intune/Intune
-    jamf/index
-
+    jamf/Jamf

@@ -64,19 +64,19 @@ html_theme_options = {
             "children": [
                 {
                     "title": "Jamf MDM",
-                    "url": "jamf/index",
+                    "url": "jamf/Jamf",
                     "summary": "Management of Apple devices by Jamf",
                 },
                 {
                     "title": "Intune MDM",
-                    "url": "intune/index",
+                    "url": "intune/Intune",
                     "summary": "Microsoft MDM solution",
                 },
             ]
         },
         {
             "title": "About us",
-            "url": "about/index",
+            "url": "about/aboutUs",
             "summary": "Learn more about MDM Engineers",           
         },
         

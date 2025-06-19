@@ -22,8 +22,8 @@ Steps to Get Started:
 
 Explore the detailed guides in the following sections:
 
-- `Intune Documentation <intune/index.html>`_
-- `Jamf Documentation <jamf/index.html>`_
+- `Intune Documentation <intune/Intune.html>`_
+- `Jamf Documentation <jamf/Jamf.html>`_
 
 ---
 
